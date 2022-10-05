@@ -78,13 +78,5 @@ return `*OTHER MENU*
  *•* ${prefix}apakah
  *•* ${prefix}bisakah
  *•* ${prefix}siapakah
- *•* ${prefix}bagaimanakah
-
- *DOWNLOADER*
- *•* ${prefix}play
- *•* ${prefix}tiktok
- *•* ${prefix}ytmp3
- *•* ${prefix}ytmp4
- *•* ${prefix}gitclone
- *•* ${prefix}mediafire`
+ *•* ${prefix}bagaimanakah`
 }
